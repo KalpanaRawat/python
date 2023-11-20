@@ -1,0 +1,10 @@
+print("Day 4")
+a= eval(input("Enter your Number.:"))
+#for i in range(0,a):
+print(a)
+a.append("9")
+print(a)
+b=eval(input("enter your number.:"))
+print(b)
+b.extend(a)
+print(b)
