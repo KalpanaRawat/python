@@ -17,8 +17,8 @@ while response=="yes"or response=="y"or response =="yeah" or response =="Y":
         print("Oops,Sorry ,Fail....")
     else :
         print("invalid number,Scam caught...Lol!!")
-
-    response = str(input("\n \n do you want to continue (Yes\No):"))
+    print()
+    response = input("do you want to continue (Yes\\No):")
     print ("\n**program ends.. Thanku**")
 
 
